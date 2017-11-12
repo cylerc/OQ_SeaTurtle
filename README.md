@@ -13,7 +13,7 @@ Conrad, C., L. Pagès Barceló, J.A. Seminoff, C.N. Turner Tomaszewicz, M.J. Lab
 
 NOTES All data required to perform the analyses can be found in (Conrad et al. XXXX). The script was run using R version 3.4.1 on Windows 10 Home.
 
-Reference: Conrad, C., L. Pagès Barceló, J.A. Seminoff, C.N. Turner Tomaszewicz, M.J. Labonte, B.M. Kemp, E.L. Jones, S.D. Newsome, M. Stoyka, K. Bruner and A.G. Pastron. in preparation. Eastern Pacific green sea turtle stable isotopes [dataset]. University of New Mexico.
+Reference: Conrad, C., L. Pagès Barceló, J.A. Seminoff, C.N. Turner Tomaszewicz, M.J. Labonte, B.M. Kemp, E.L. Jones, S.D. Newsome, M. Stoyka, K. Bruner and A.G. Pastron. in preparation. Historic and modern eastern Pacific green sea turtle stable isotopes [dataset]. University of New Mexico.
 
 License:
 
