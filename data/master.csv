@@ -1,0 +1,27 @@
+'ID,Taxon,Common Name,Site,d13C,sd,d15N,sd,Reference
+ST01,Chelonia mydas,Green Sea Turtle,CA-SFR-186H,-14.6,-,18.2,-,This study
+ST02,Chelonia mydas,Green Sea Turtle,CA-SFR-195H,-13.6,-,15,-,This study
+A,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-13.85,-,15.95,-,Turner Tomaszewicz et al. 2015
+AA,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-15.68,-,17.76,-,Turner Tomaszewicz et al. 2015
+B,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-14.59,-,18.47,-,Turner Tomaszewicz et al. 2015
+BB,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-18.06,-,11.05,-,Turner Tomaszewicz et al. 2015
+C,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-14.53,-,13.58,-,Turner Tomaszewicz et al. 2015
+CC,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-15.22,-,13.58,-,Turner Tomaszewicz et al. 2015
+D,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-14.59,-,15.95,-,Turner Tomaszewicz et al. 2015
+DD,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-15.9,-,17.06,-,Turner Tomaszewicz et al. 2015
+E,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-15.66,-,17.56,-,Turner Tomaszewicz et al. 2015
+U,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-17.62,-,16.73,-,Turner Tomaszewicz et al. 2015
+V,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-15.93,-,17.54,-,Turner Tomaszewicz et al. 2015
+W,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-14.39,-,15.76,-,Turner Tomaszewicz et al. 2015
+X,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-15.06,-,16.08,-,Turner Tomaszewicz et al. 2015
+Y,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-14.62,-,15.53,-,Turner Tomaszewicz et al. 2015
+Z,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-15.22,-,16.25,-,Turner Tomaszewicz et al. 2015
+-,Chelonia mydas,Green Sea Turtle,San Diego Bay,-15.9,1.1,17.1,1.3,Lemons et al. 2011
+-,Chelonia mydas,Green Sea Turtle,Laguna Ojo Liebre,-14,0.6,10.7,0.3,Rodríguez-Barón 2010
+-,Chelonia mydas,Green Sea Turtle,Laguna San Ignacio,-14.5,1.9,12.8,2.2,Lewis 2009
+-,Chelonia mydas,Green Sea Turtle,Laguna San Ignacio,-12.5,0.5,12.3,0.5,Rodríguez-Barón 2010
+-,Chelonia mydas,Green Sea Turtle,Bahía Magdalena,-18.1,0.3,11.2,0.3,Rodríguez-Barón 2010
+-,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-16.6,0.8,16.2,1.2,Turner Tomaszewicz et al. in preparation
+-,Chelonia mydas,Green Sea Turtle,Playa San Lázaro,-17.6,1.2,16,2.1,Turner Tomaszewicz et al. in preparation
+ST01,Chelonia mydas,Green Sea Turtle,Gold Rush,-16.6,0,18.7,0,This study
+ST02,Chelonia mydas,Green Sea Turtle,Gold Rush,-16.1,0,15.9,0,This study
