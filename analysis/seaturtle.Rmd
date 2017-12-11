@@ -27,7 +27,7 @@ library(ggmap)
 
 ```{r figure 2-map of sites}
 #load coordinate data
-sites<-read.csv("coords.csv")
+sites<-read.csv("data/coords.csv")
 region<-qmap("Baja California", zoom=5)
 region + geom_point(aes(x = long, y = lat, shape=Sample), data = sites)
 ```
@@ -56,6 +56,10 @@ ggplot(fig3, aes(d13C, d15N, shape=Site)) +
         legend.text = element_text(color="black", size=15)) +
   scale_shape_manual(values=c(1,0,15))+
   theme(legend.position="right")
+fig_width <- 300 
+ggsave(filename="figures/fig3.png",
+       dpi=600, units="mm",
+       height=fig_width/1.6, width=fig_width)
 #break data into groups for statistical analysis
 gr<-fig3[1:2,]
 modern<-fig3[3:17,]
@@ -92,6 +96,10 @@ ggplot(fig4, aes(x=d13C, y=d15N, shape=Site)) +
         plot.title = element_text(color="black", size=15, face="bold")) +
   scale_shape_manual(values=c(3,15,16,17,0,1))+
   theme(legend.position="right")
+fig_width <- 300 
+ggsave(filename="figures/fig4.png",
+       dpi=600, units="mm",
+       height=fig_width/1.6, width=fig_width)
 #break data into groups for statistical analysis
 modern2<-fig4[1:7,]
 gr2<-fig4[8:9,]
