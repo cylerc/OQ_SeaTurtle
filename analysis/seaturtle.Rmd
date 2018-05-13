@@ -4,13 +4,13 @@ Cyler Conrad, Department of Anthropology, University of New Mexico, cylerc@unm.e
 
 This document contain R code to reproduce the plots and statistical analysis presented in: 
 
-> Conrad, C., L. Pagès Barceló, J.A. Seminoff, C.N. Turner Tomaszewicz, M.J. Labonte, B.M. Kemp, E.L. Jones, S.D. Newsome, M. Stoyka, K. Bruner and A.G. Pastron. in preparation. Stable Isotope Ecology and Ancient DNA Analysis of Sea Turtles (Cheloniidae) from the Gold Rush-era (1850s) Eastern Pacific Ocean. Open Quaternary. 
+> Conrad, C., L. Pagès Barceló, J.A. Seminoff, C.N. Turner Tomaszewicz, M.J. Labonte, B.M. Kemp, E.L. Jones, M. Stoyka, K. Bruner and A.G. Pastron. in press. Ancient DNA Analysis and Stable Isotope Ecology of Sea Turtles (Cheloniidae) from the Gold Rush-era (1850s) Eastern Pacific Ocean. Open Quaternary. 
 
-All data required to perform the analyses can be found at the University of New Mexico digital electronic repository (Conrad et al. 2017). The development version of this document can be found at https://github.com/cylerc/OQ_SeaTurtle
+All data required to perform the analyses can be found at the University of New Mexico digital electronic repository (Conrad et al. 2018). The development version of this document can be found at https://github.com/cylerc/OQ_SeaTurtle
 
 Details of the computational environment and software dependencies are listed at the end of this document. 
 
-Reference: Conrad, C., L. Pagès Barceló, J.A. Seminoff, C.N. Turner Tomaszewicz, M.J. Labonte, B.M. Kemp, E.L. Jones, S.D. Newsome, M. Stoyka, K. Bruner and A.G. Pastron. 2017. Historic and modern eastern Pacific green sea turtle stable isotopes [dataset]. University of New Mexico.
+Reference: Conrad, C., L. Pagès Barceló, J.A. Seminoff, C.N. Turner Tomaszewicz, M.J. Labonte, B.M. Kemp, E.L. Jones, M. Stoyka, K. Bruner and A.G. Pastron. 2018. Historic and modern eastern Pacific green sea turtle stable isotopes [dataset]. University of New Mexico.
 
 ```{r setup}
 # set the base directory for knitr to the directory above this one
